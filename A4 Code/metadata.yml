@@ -1,0 +1,14 @@
+---
+:id: 175717232
+:submitters:
+- :name: Anthony Norderhaug
+  :email: anorderhaug0480@sdsu.edu
+- :name: Anthony Contreras
+  :email: acontreras2934@sdsu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-04-19 06:26:54.056660000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-04-18 23:26:54.056660000 Z
+:status: processed
+:score: 105.0
