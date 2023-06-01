@@ -1,2 +1,2 @@
 # CryptoExchange
-Simulation of crypto exchange
+Simulate a cryptoexchange brokerage that employs a producer-consumer communication scheme. Parties will vary amongst each other by their processing rate and allowed amount on the buffer. These attributes will affect the order of request execution, all are then logged with the provided output methods and compared with specific testcases to ensure proper semaphore, thead, and mutex implementation.
